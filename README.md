@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roadlyfe
-- 👀 I’m interested in fullstack development.
-- 🌱 I’m currently learning at BloomTech (starting Jan 2021)
+- 👀 I’m a full-stack web deveoloper.
+- 🌱 I’m currently learning at Bloom Institute of Technolog (set to graduate in July)! 
 - 💞️ I’m looking to collaborate on everything! 
 - 📫 How to reach me adam@roaldyfe.com
 
