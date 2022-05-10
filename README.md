@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">I'm a Full-Stack web Developer from Portland, Oregon.</h3>
+<h3 align="center">Full Stack Web Developer with a passion for both UI/Frontend Design, Full Stack WebDev, & travel photography</h3>
 
-- 🌱 I’m currently studying at **Bloom Institute of Technology.**
-
+- 🌱 Currently exploring web development projects and building solution-oriented applications in a fun and creative way
 - 📫 How to reach me **adamsmithetc@gmail.com**
 
 - ⚡ Fun fact **I traveled full time for three years working as a nature photographer.**
